@@ -77,3 +77,9 @@ validators==0.22.0; python_version >= '3.8'
 wrapt==1.16.0; python_version >= '3.6'
 yarl==1.9.3; python_version >= '3.7'
 zipp==3.17.0; python_version >= '3.8'
+streamlit~=1.45.0
+requests~=2.32.3
+pandas~=2.2.3
+plotly~=6.0.1
+openai~=1.78.0
+llama-index-core~=0.12.35
